@@ -6,7 +6,7 @@
 class script(object):
     START_TXT = """<b><blockquote>Hᴇʟʟᴏ {}, ᴍʏ ɴᴀᴍᴇ <a href=https://t.me/{}>{}</a></blockquote>
     
-ɪ ᴀᴍ【 ʟᴀᴛᴇꜱᴛ ᴀᴅᴠᴀɴᴄᴇᴅ 】ᴀɴᴅ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ+└ᴀᴡᴇꜱᴏᴍᴇ ꜰɪʟᴛᴇʀ┘+├ꜰɪʟᴇ ꜱᴛᴏʀᴇ ʙᴏᴛ┤+☞ᴍᴀɴᴜᴀʟ ꜰɪᴛᴇʀ☜ ᴀɴᴅ ᢵᴄᴜꜱᴛᴏᴍɪᴢᴇᴅ ꜱʜᴏʀᴛɴᴇʀ ꜱᴜᴘᴘᴏʀᴛᢴ ᢾᴀɴᴅ ʙᴇꜱᴛ ᴜɪ ᴘᴇʀꜰᴏʀᴍᴀɴᴄᴇᢿ</b>"""
+ᴍʏ ɴᴀᴍᴇ <a href=https://t.me/{}>{}</a>,ɪ ᴀᴍ ʙᴏᴛ ᴡʜɪᴄʜ ʜᴀᴠᴇ ᴍᴏʀᴇ ᴛʜᴇɴ 1 ʟᴀᴋʜ +  ғɪʟᴇs ᴏɴ ᴍʏ ᴅᴀᴛᴀʙᴀsᴇ . ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇs ᴀɴᴅ sᴇʀɪᴇs ʙᴜᴛ..! ɴᴏᴛ ᴛʜᴇᴀᴛʀᴇ ᴘʀɪɴᴛs 🚫.sᴏ ᴅᴏɴᴛ sᴇᴀʀᴄʜ ᴛʜᴇᴀᴛʀᴇ ᴘʀɪɴᴛs 😉</b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
@@ -15,21 +15,26 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
     
 ‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/{}>{}</a>
 ‣ ᴍʏ ʙᴇsᴛ ғʀɪᴇɴᴅ : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
-‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Am_Robots'>ᴀᴍ ʀᴏʙᴏᴛꜱ</a> 
+‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/movie_loverzz'>Mᴏᴠɪᴇ Lᴏᴠᴇʀᴢ</a> 
 ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
 ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
 ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
-‣ ʙᴏᴛ sᴇʀᴠᴇʀ : <a href=https://t.me/Amrobots_Bots>ᴀᴍʀᴏʙᴏᴛs</a></b> 
 ‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ3.0.1 [sᴛᴀʙʟᴇ]></b>"""
 
     SUBSCRIPTION_TXT = """
-<b>ʀᴇғᴇʀʀᴇ ʏᴏᴜʀ ʟɪɴᴋ ᴛᴏ ʏᴏᴜʀ ғʀɪᴇɴᴅs, ғᴀᴍɪʟʏ, ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ɢʀᴏᴜᴘ ᴛᴏ ɢᴇᴛ ғʀᴇᴇ ᴘʀᴇᴍɪᴜᴍ ғᴏʀ {}
+<b🫵 𝖧𝗂 Guys..
+𝖮𝗎𝗋 𝖡𝗈𝗍 𝖨𝗌 𝖦𝗂𝗏𝗂𝗇𝗀 𝖣𝗂𝗋𝖾𝖼𝗍 𝖥𝗂𝗅𝖾𝗌 𝖶𝗂𝗍𝗁𝗈𝗎𝗍 𝖲𝗁𝗈𝗋𝗍𝗇𝖾𝗋𝗌, 𝖴𝗇𝗅𝗂𝗄𝖾 𝖮𝗍𝗁𝖾𝗋 𝖡𝗈𝗍𝗌. 𝖲𝗈 𝖨𝖿 𝖸𝗈𝗎 𝖫𝗂𝗄𝖾 𝖮𝗎𝗋 𝖥𝗋𝖾𝖾 𝖲𝖾𝗋𝗏𝗂𝖼𝖾 𝖯𝗅𝖾𝖺𝗌𝖾 𝖣𝗈𝗇𝖺𝗍𝖾 𝖴𝗌
+ 𝖶𝗁𝗂𝖼𝗁 𝖶𝗂𝗅𝗅 𝖡𝖾 𝖱𝖾𝖺𝗅𝗅𝗒 𝖧𝖾𝗅𝗉𝖿𝗎𝗅𝗅 𝖥𝗈𝗋 𝖴𝗌.
 
-ʀᴇғᴇʀᴀʟ ʟɪɴᴋ - https://telegram.me/{}?start=AMROBOTS-{}
+𝖠𝗇𝗒 𝖠𝗆𝗈𝗎𝗇𝗍 𝖶𝗈𝗎𝗅𝖽 𝖡𝖾 𝖥𝗂𝗇𝖾 (10, 20, 30, 50, 100...) 𝖠𝗌 𝖫𝗈𝗇𝗀 𝖠𝗌 𝖸𝗈𝗎 𝖳𝗁𝗂𝗇𝗄 𝖮𝗎𝗋 𝖡𝗈𝗍 D𝖾𝗌𝖾𝗋𝗏𝖾𝗌 𝖨𝗍.
 
-ɪғ {} ᴜɴɪǫᴜᴇ ᴜsᴇʀ sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ ᴡɪᴛʜ ʏᴏᴜʀ ʀᴇғᴇʀᴀʟ ʟɪɴᴋ ᴛʜᴇɴ ʏᴏᴜ ᴡɪʟʟ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ ᴀᴅᴅᴇᴅ ɪɴ ᴘʀᴇᴍɪᴜᴍ ʟɪsᴛ.
+Vere Channels Laga Files Ki Shortlinks And Subscriptions Scheme Ithey Mana Channel lo Undadu. Inka Mi Istam 
 
-ʙᴜʏ ᴘᴀɪᴅ ᴘʟᴀɴ ʙʏ - /plan</b>"""
+𝖸𝗈𝗎 𝖢𝖺𝗇 𝖣𝗈𝗇𝖺𝗍𝖾 𝖳𝗁𝗋𝗈𝗎𝗀𝗁 𝖮𝗎𝗋 𝖴𝖯𝖨 𝖨𝖣 👇
+𝗨𝗣𝗜 𝗜𝗗:- <code>movieloverz11220@okaxis</code>
+QR CODE:- 👉<a href=https://graph.org/file/1e1e883ef2309c91aad77.jpg>SCAN QR CODE</a> (Open Link,Save QR and Pay)
+  
+𝗧𝗛𝗔𝗡𝗞𝗦 𝗜𝗡 𝗔𝗗𝗩𝗔𝗡𝗖𝗘, 𝗬𝗢𝗨𝗥 𝗖𝗢𝗡𝗧𝗥𝗜𝗕𝗨𝗧𝗜𝗢𝗡𝗦 𝗥𝗘𝗔𝗟𝗟𝗬 𝗛𝗘𝗟𝗣𝗙𝗨𝗟𝗟 𝗙𝗢𝗥 𝗨𝗦🤍.</b>"""
 
 
 
@@ -56,7 +61,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/AmRobots_Bots)</code>
+<code>[Button Text](buttonurl:https://t.me/AmRbots_Bots)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -89,9 +94,9 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
 my features Stay here new features coming soon...  
- <b>✯ Maintained by : <a href=https://t.me/Am_Robots>☢ᴀᴍ ʀᴏʙᴏᴛꜱ☢</a></b>
+ <b>✯ Maintained by : <a href=https://t.me/MOVIE_LOVERZZ>☢Mᴏᴠɪᴇ Lᴏᴠᴇʀᴢ☢</a></b>
   
- <b>✯ Join here : <a href=https://t.me/AmRobots_Bots>☢Join ᴍʏ ᴜᴘᴅᴀᴛᴇᴅꜱ☢</a></b> 
+ <b>✯ Join here : <a href=https://t.me/MOVIE_LOVERZZ>☢Join ᴍʏ ᴜᴘᴅᴀᴛᴇᴅꜱ☢</a></b> 
   
  ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
  code> 
@@ -221,13 +226,9 @@ IMDb Data:
 🌟 Rating: <a href={url}/ratings>{rating}</a> / 10 (based on {votes} user ratings.)
 ☀️ Languages : <code>{languages}</code>
 📀 RunTime: {runtime} Minutes
-📆 Release Info : {release_date}
-🎛 Countries : <code>{countries}</code>
-
 
 ⏰Result Shown in: {remaining_seconds} <i>seconds</i> 🔥
-
-Requested by : {message.from_user.mention}</b>"""
+</b>"""
     
     ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
@@ -430,7 +431,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 📅 Dᴀᴛᴇ : <code>{}</code>
 ⏰ Tɪᴍᴇ : <code>{}</code>
 🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
-🗄️ sᴇʀᴠᴇʀ - <a href=https://t.me/Amrobots_Bots>ᴀᴍʀᴏʙᴏᴛs</a></b>
+🗄️ sᴇʀᴠᴇʀ - <a href=https://t.me/MOVIE_LOVERZZ>Mᴏᴠɪᴇ Lᴏᴠᴇʀᴢ</a></b>
 🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v3.0.1 [ Sᴛᴀʙʟᴇ ]</code></b>"""
 
     LOGO = """
