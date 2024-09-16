@@ -1985,7 +1985,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             buttons = [[
                 InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-                InlineKeyboardButton('Oᴛᴛ Uᴘᴅᴀᴛᴇꜱ', url="https://t.me/+xSx3MYL1eDA2ODVl"),
+                InlineKeyboardButton('Oᴛᴛ Uᴘᴅᴀᴛᴇꜱ', callback_data="shortlink_info"),
                 InlineKeyboardButton('⌬ Mᴏᴠɪᴇ Gʀᴏᴜᴘ', url=GRP_LNK)
             ],[
                 InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
@@ -1999,7 +1999,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             buttons = [[
                 InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-                InlineKeyboardButton('Oᴛᴛ Uᴘᴅᴀᴛᴇꜱ', url="https://t.me/+xSx3MYL1eDA2ODVl"),
+                InlineKeyboardButton('Oᴛᴛ Uᴘᴅᴀᴛᴇꜱ', callback_data="shortlink_info"),
                 InlineKeyboardButton('⌬ Mᴏᴠɪᴇ Gʀᴏᴜᴘ', url=GRP_LNK)
             ],[
                 InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
@@ -2095,7 +2095,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "about":
         buttons = [[
             InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
-            InlineKeyboardButton('Sᴏᴜʀᴄᴇ Cᴏᴅᴇ', url="https://github.com/AM-ROBOTS/AMROBOTS-FILTER-BOT")
+            InlineKeyboardButton('Sᴏᴜʀᴄᴇ Cᴏᴅᴇ', url="https://github.com/")
         ],[
             InlineKeyboardButton('Hᴏᴍᴇ', callback_data='start'),
             InlineKeyboardButton('Cʟᴏsᴇ', callback_data='close_data')
@@ -2319,16 +2319,16 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 InlineKeyboardButton("👇Select Your Language 👇", callback_data="laninfo")
         ], [
             InlineKeyboardButton("Tamil", callback_data="tamil_info"),
-            InlineKeyboardButton("English", callback_data="english_info"),
-            InlineKeyboardButton("Hindi", callback_data="hindi_info")
+            #InlineKeyboardButton("English", callback_data="english_info"),
+            #InlineKeyboardButton("Hindi", callback_data="hindi_info")
         ], [
-            InlineKeyboardButton("Malayalam", callback_data="malayalam_info"),
-            InlineKeyboardButton("Urdu", callback_data="urdu_info"),
-            InlineKeyboardButton("Bangla", callback_data="bangladesh_info")
+           # InlineKeyboardButton("Malayalam", callback_data="malayalam_info"),
+           # InlineKeyboardButton("Urdu", callback_data="urdu_info"),
+           # InlineKeyboardButton("Bangla", callback_data="bangladesh_info")
         ], [
-            InlineKeyboardButton("Telugu", callback_data="telugu_info"),
-            InlineKeyboardButton("Kannada", callback_data="kannada_info"),
-            InlineKeyboardButton("Gujarati", callback_data="gujarati_info"),
+           # InlineKeyboardButton("Telugu", callback_data="telugu_info"),
+           # InlineKeyboardButton("Kannada", callback_data="kannada_info"),
+            #InlineKeyboardButton("Gujarati", callback_data="gujarati_info"),
             InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start")
 
             ]]
