@@ -188,7 +188,7 @@ Nᴀᴍᴇ - {}"""
 
     SHORTLINK_INFO = """
 
-🫵 Select Your Language And Earn Money 💰"""
+🫵 Join our Channels """
 
     REQINFO = """
 ⚠ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ⚠
