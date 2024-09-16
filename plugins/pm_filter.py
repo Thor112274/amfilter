@@ -2316,9 +2316,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "shortlink_info":
             btn = [[
-                InlineKeyboardButton("👇Join Our Channels 👇", callback_data="laninfo")
+                InlineKeyboardButton("👇Join Our Channels 👇", callback_data="tamil_info")
         ], [
-            InlineKeyboardButton("Join here", callback_data="tamil_info"),
+           # InlineKeyboardButton("Join here", callback_data="tamil_info"),
             #InlineKeyboardButton("English", callback_data="english_info"),
             #InlineKeyboardButton("Hindi", callback_data="hindi_info")
         ], [
